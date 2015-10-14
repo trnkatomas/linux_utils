@@ -1,0 +1,1 @@
+../imgThumbnailer.sh
